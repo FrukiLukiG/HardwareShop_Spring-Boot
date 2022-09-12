@@ -1,3 +1,3 @@
-# Hardware Shop - Spring Boot - older version
+# Hardware Shop - Spring Boot
 
 Hardware shop - backend - made with Spring Boot
